@@ -1,1 +1,2 @@
-# Autokolcsonzo_beadando
+# OOP_beadando
+# Autokolcsonzo
